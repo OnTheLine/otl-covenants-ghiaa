@@ -35,7 +35,7 @@ $.getJSON("map.geojson", function (data) {
     onEachFeature: function( feature, layer) {
       var popupText = "<b>" + feature.properties.longname + "</b><br />"
          + "&quot;" + feature.properties.text + "&quot; -- " + feature.properties.date + "<br />"
-         + "<a href='https://jackdougherty.github.io/otl-restrictive-covenant/'"+ feature.properties.name + "'.pdf' target='_blank'>View the property deed</a>";
+         + "<a href='https://jackdougherty.github.io/otl-restrictive-covenant/pdf/'"+ feature.properties.name + "'.pdf' target='_blank'>View the property deed</a>";
       layer.bindPopup(popupText);
     }
   }).addTo(map);
