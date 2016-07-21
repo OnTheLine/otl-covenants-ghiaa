@@ -16,17 +16,17 @@ attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreet
 L.control.scale().addTo(map);
 
 // town polygons (place first so that covenants on top are clickable)
-$.getJSON("src/ct-towns-simple.geojson", function (data) {
-  var geoJsonLayer = L.geoJson(data, {
-    style: function (feature) {
-      return {
-        'color': 'red',
-        'weight': 2,
-        fillOpacity: 0
-      }
-    }
-  }).addTo(map);
-});
+// $.getJSON("src/ct-towns-simple.geojson", function (data) {
+//   var geoJsonLayer = L.geoJson(data, {
+//     style: function (feature) {
+//       return {
+//         'color': 'red',
+//         'weight': 2,
+//         fillOpacity: 0
+//       }
+//     }
+//   }).addTo(map);
+// });
 
 // restrictive covenants
 $.getJSON("map.geojson", function (data) {
@@ -35,7 +35,7 @@ $.getJSON("map.geojson", function (data) {
     onEachFeature: function( feature, layer) {
       var popupText = "<b>" + feature.properties.longname + "</b><br />"
          + "&quot;" + feature.properties.text + "&quot; -- " + feature.properties.date + "<br />"
-         + "<a href='https://jackdougherty.github.io/otl-restrictive-covenant/pdf/'"+ feature.properties.name + "'.pdf' target='_blank'>View the property deed</a>";
+         + "<a href='https://jackdougherty.github.io/otl-restrictive-covenant/pdf/' + feature.properties.name + '.pdf' target='_blank'>View property deed (PDF in new tab)</a>";
       layer.bindPopup(popupText);
     }
   }).addTo(map);
