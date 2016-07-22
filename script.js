@@ -4,6 +4,10 @@ var map = L.map('map', {
   zoom: 13,
   scrollWheelZoom: false
 });
+// create custom pane for town layer, set below overlay zIndex 400, make non-clickable
+map.createPane('towns');
+map.getPane('towns').style.zIndex = 350;
+map.getPane('towns').style.pointerEvents = 'none';
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
@@ -15,7 +19,7 @@ attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreet
 
 L.control.scale().addTo(map);
 
-// town polygons (place first so that covenants on top are clickable)
+// town polygons
 $.getJSON("src/ct-towns-simple.geojson", function (data) {
   var geoJsonLayer = L.geoJson(data, {
     style: function (feature) {
@@ -24,7 +28,8 @@ $.getJSON("src/ct-towns-simple.geojson", function (data) {
         'weight': 2,
         fillOpacity: 0
       }
-    }
+    },
+    pane: 'towns'
   }).addTo(map);
 });
 
