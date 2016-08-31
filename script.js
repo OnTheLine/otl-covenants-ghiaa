@@ -1,7 +1,7 @@
 // Edit the center point and zoom level
 var map = L.map('map', {
   center: [41.7671, -72.7266],
-  zoom: 13,
+  zoom: 12,
   scrollWheelZoom: false
 });
 // create custom pane for town layer, set below overlay zIndex 400, make non-clickable
