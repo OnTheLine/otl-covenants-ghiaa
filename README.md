@@ -5,7 +5,7 @@ Leaflet map of race restrictive covenants in property deeds in Hartford CT area 
 https://jackdougherty.github.io/otl-covenants/index-frame.html
 
 ## Shortcode for http://OnTheLine.trincoll.edu
-- [iframe src="http://jackdougherty.github.io/otl-covenants/index.html" width=100% height = 550]
+- [iframe src="https://jackdougherty.github.io/otl-covenants/index.html" width=100% height = 550]
 
 This replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 
