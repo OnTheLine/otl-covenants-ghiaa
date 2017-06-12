@@ -11,9 +11,9 @@ map.getPane('towns').style.pointerEvents = 'none';
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
-.setPrefix('View <a href="http://github.com/jackdougherty/otl-covenants" target="_blank">sources and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+.setPrefix('View <a href="http://github.com/jackdougherty/otl-covenants" target="_blank">historical sources and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
 
-new L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+new L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
 }).addTo(map);
 
