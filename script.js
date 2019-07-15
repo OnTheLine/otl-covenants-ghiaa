@@ -11,7 +11,7 @@ map.getPane('towns').style.pointerEvents = 'none';
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
-.setPrefix('View <a href="http://github.com/jackdougherty/otl-covenants" target="_blank">historical sources and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+.setPrefix('View <a href="http://github.com/ontheline/otl-covenants" target="_blank">historical sources and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
 
 new L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
@@ -40,7 +40,7 @@ $.getJSON("map.geojson", function (data) {
     onEachFeature: function( feature, layer) {
       var popupText = "<b>" + feature.properties.longname + "</b><br />"
          + "&quot;" + feature.properties.text + "&quot; -- " + feature.properties.date + "<br />"
-         + "<a href='https://jackdougherty.github.io/otl-covenants/pdf/" + feature.properties.name + ".pdf' target='_blank'>View property deed (PDF opens new tab)</a>";
+         + "<a href='https://ontheline.github.io/otl-covenants/pdf/" + feature.properties.name + ".pdf' target='_blank'>View property deed (PDF opens new tab)</a>";
       layer.bindPopup(popupText);
     }
   }).addTo(map);

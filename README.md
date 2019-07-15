@@ -1,11 +1,11 @@
 # otl-covenants
 Leaflet map of restrictive covenants in property deeds in Hartford CT area in 1940s
 
-## Link with caption
-https://ontheline.github.io/otl-covenants/index-frame.html
+## Demo with caption
+https://ontheline.github.io/otl-covenants/index-caption.html
 
-## iframe for http://OnTheLine.trincoll.edu
-```<iframe src="https://ontheline.github.io/otl-covenants/index.html" width="100%" height = 450></iframe>```
+## Embedded in On The Line book http://ontheline.trincoll.edu
+set iframe height 500px
 
 ## Credits
 - Property deed research by Katie Campbell, and map digitization by UConn MAGIC
