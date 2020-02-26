@@ -8,7 +8,9 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 set iframe height 500px
 
 ## Credits
-- Property deed research by Katie Campbell, and map digitization by UConn MAGIC
+- Katie Campbell, property deed research in West Hartford CT
+- David K. Ware, property deed research in Manchester CT
+- Map by Ilya Ilyakou and Jack Dougherty
 - This Leaflet map replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants, by race or religion, elsewhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
@@ -19,3 +21,7 @@ set iframe height 500px
   - High Ledge Homes development, vol. 152, pp. 224-5, June 10, 1940, and map #218
   - Hillside Homes development, vol. 164, pp. 168-9, May 26, 1941, and map #270
   - Unnamed Asylum Avenue development, vol. 154, p. 116, June 17, 1940; vol. 150, p. 456, May 20, 1940
+- Land Records, Town of Manchester, CT
+  - Bowers Farm development, vol. 136, pp. 386-387, circa May 1940, and map SB2-19
+  - Greenway Park development, vol. 141, p. 93, Nov 18, 1940, and map SB2-36
+  - Lakewood Circle development, vol. 141, p. 270, June 21, 1941, and map SB2-18
