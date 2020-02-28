@@ -25,3 +25,6 @@ set iframe height 500px
   - Bowers Farm development, vol. 136, pp. 386-387, circa May 1940, and map SB2-19
   - Greenway Park development, vol. 141, p. 93, Nov 18, 1940, and map SB2-36
   - Lakewood Circle development, vol. 141, p. 270, June 21, 1941, and map SB2-18
+
+## See also in PDF folder
+David K. Ware, “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut.” Paper submitted for University of Connecticut School of Law, January 2020, https://github.com/OnTheLine/otl-covenants/blob/master/pdf/ware-manchester-2020.pdf
