@@ -9,26 +9,31 @@ map.createPane('towns');
 map.getPane('towns').style.zIndex = 350;
 map.getPane('towns').style.pointerEvents = 'none';
 
-// Edit links to your GitHub repo and data source credit
-map.attributionControl
-.setPrefix('View <a href="http://github.com/ontheline/otl-covenants" target="_blank">historical sources and code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
-
+// Add Carto basemap
 new L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
 }).addTo(map);
 
+
+// Add Esri geocoder
 var searchControl = L.esri.Geocoding.geosearch().addTo(map);
 
-  var results = L.layerGroup().addTo(map);
+var results = L.layerGroup().addTo(map);
 
-  searchControl.on('results', function (data) {
-    results.clearLayers();
-    for (var i = data.results.length - 1; i >= 0; i--) {
-      results.addLayer(L.marker(data.results[i].latlng));
-    }
-  });
+searchControl.on('results', function (data) {
+  results.clearLayers();
+  for (var i = data.results.length - 1; i >= 0; i--) {
+    results.addLayer(L.marker(data.results[i].latlng));
+  }
+});
 
+// Add scale control
 L.control.scale().addTo(map);
+
+// Prepend attribution to "Powered by Esri"
+map.attributionControl.setPrefix('View\
+  <a href="https://github.com/ontheline/otl-covenants" target="_blank">sources and code on GitHub</a>,\
+  created with ' + map.attributionControl.options.prefix);
 
 // town outline layer, with custom pane set to lower non-clickable layer
 $.getJSON("src/ct-towns-simple.geojson", function (data) {
