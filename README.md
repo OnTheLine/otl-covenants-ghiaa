@@ -1,5 +1,5 @@
 # otl-covenants
-Leaflet map of restrictive covenants in property deeds in Hartford CT area in 1940s
+Leaflet map of restrictive covenants in property deeds in Connecticut in 1940s
 
 ## Demo with caption
 https://ontheline.github.io/otl-covenants/index-caption.html
@@ -9,15 +9,18 @@ set iframe height 500px
 
 ## Credits
 - Property deed research:
-  - in West Hartford CT by Katie Campbell, Trinity College
-  - in Manchester CT by David K. Ware, “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut.” Paper submitted for University of Connecticut School of Law, January 2020, https://ssrn.com/abstract=3546228
-  - in Newington CT by David K. Ware
+  - in West Hartford CT by Katie Campbell, Trinity College, Summer 2011
+  - in Manchester CT by David K. Ware, “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut.” Paper submitted for University of Connecticut School of Law, January 2020, https://ssrn.com/abstract=3546228.
+  - in Newington CT by David K. Ware, December 2023
+  - in Hamden CT by June Gold, January 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants, by race or religion, elsewhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
 ## Historical sources in PDF folder
 In land records below, note that racially restrictive covenants sometimes only applied to specific property lots in a real estate development, but our maps show the outline of the entire development as described in land records of that period.
-
+### Hamden
+- Land Records, Town of Hamden, Connecticut
+  - Gilridge development, vol. 205, pp. 40-42, 1 October 1940, and maps 224 and 54a.
 ### Manchester
 - Land Records, Town of Manchester, Connecticut
   - Bowers Farm development, vol. 136, pp. 386-387, circa May 1940, and map SB2-19
