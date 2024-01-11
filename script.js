@@ -86,7 +86,7 @@ $.getJSON("map.geojson", function (data) {
   geoJsonLayer = L.geoJson(data, {
     style: style,
     onEachFeature: function( feature, layer) {
-      var popupText = "<b>" + feature.properties.longname + "</b><br />"
+      var popupText = "<b>" + feature.properties.name + ", " + feature.properties.town + " CT" + "</b><br />"
          + "&quot;" + feature.properties.text + "&quot; -- " + feature.properties.date + "<br />"
          + "<a href='https://ontheline.github.io/otl-covenants/pdf/" + feature.properties.id + ".pdf' target='_blank'>View property deed (PDF opens new tab)</a>";
       layer.bindPopup(popupText);
@@ -103,10 +103,13 @@ $.getJSON("map.geojson", function (data) {
 
 function populateSidebar(devs) {
 
+  // add instructions to top of SIDEBAR
+  $('.sidebar').append('<b>' + 'Click links or polygons<br>to view racial restrictions' + '</b>');
+
   // Sort developments by town, alphabetically
   devs.sort(function(a, b) { return a[0].properties.town > b[0].properties.town ? 1 : -1 });
 
-  
+
   townsAdded = []; // Keep track of town names we already added to the sidebar as a title
   layers = {};  // Use this object to retrieve geojson layers by layer ID, ie {id1:layer, id2:layer2}
 
@@ -117,7 +120,6 @@ function populateSidebar(devs) {
     // Get a leaflet layer for the town
     var layer = devs[i][1];
     layers[feature.properties.id] = layer;
-    
 
     // Add town to sidebar if needed
     if (townsAdded.indexOf(town) < 0) {
@@ -125,8 +127,8 @@ function populateSidebar(devs) {
       $('.sidebar').append('<h3>' + town + '</h3>');
     }
 
-    // Add development name with link
-    $('.sidebar').append('<h4 id="' + feature.properties.id + '">' + feature.properties.longname + '</h4>');
+    // Add subdivision name with link
+    $('.sidebar').append('<h4 id="' + feature.properties.id + '">' + feature.properties.name + '</h4>');
 
   }
 
@@ -138,7 +140,7 @@ function populateSidebar(devs) {
 
   $('#toggle-sidebar').click(function() {
     var currentHeight = $('.sidebar').css('height');
-    $('.sidebar').css('height', currentHeight === '200px' ? '50px' : '200px');
+    $('.sidebar').css('height', currentHeight === '200px' ? '40px' : '200px');
   })
 
 }
