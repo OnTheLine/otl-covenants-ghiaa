@@ -57,7 +57,7 @@ L.Control.Sidebar = L.Control.extend({
     var div = L.DomUtil.create('div', 'sidebar');
     L.DomEvent.disableClickPropagation(div);
     L.DomEvent.disableScrollPropagation(div);
-    div.innerHTML = '';
+    div.innerHTML = '<div id="toggle-sidebar">&harr;</div>';
     return div;
   },
 
@@ -134,6 +134,11 @@ function populateSidebar(devs) {
     var clickedId = $(this).prop('id');
     map.fitBounds( layers[clickedId].getBounds() );
     layers[clickedId].openPopup();
+  })
+
+  $('#toggle-sidebar').click(function() {
+    var currentHeight = $('.sidebar').css('height');
+    $('.sidebar').css('height', currentHeight === '200px' ? '50px' : '200px');
   })
 
 }

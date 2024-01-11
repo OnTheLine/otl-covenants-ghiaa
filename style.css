@@ -56,3 +56,18 @@ body { margin:0; padding:0; }
 .sidebar h4:hover {
   opacity: 0.8;
 }
+
+#toggle-sidebar {
+  position: relative;
+  float: right;
+  background-color: #ddd;
+  border-radius: 100%;
+  padding: 3px 6px;
+  cursor: pointer;
+  color: #555;
+  rotate: 45deg;
+}
+
+#toggle-sidebar:hover {
+  opacity: 0.8;
+}
