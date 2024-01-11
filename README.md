@@ -40,27 +40,6 @@ In the land records (stored in `pdf` folder), note that racially restrictive cov
 | West Hartford | Hillside Homes subdivision | vol. 164, pp. 168-69 | Arnold Holder, Vice President, Hillside Homes Corporation | 26 May 1941 |
 | West Hartford | Unnamed Asylum Avenue subdivision | vol. 154, p. 116; vol. 150, p. 456 | R.G. Bent, President of R.G. Bent Company | 17 Jun 1940 |
 
-### Hamden
-- Land Records, Town of Hamden, Connecticut
-  - Gilridge development, vol. 205, pp. 40-42, 1 October 1940, and maps 224 and 54a, developed by Joseph E. Maselli and Pasquale DeRosa.
-  - Village Farms development, vol. 202, pp. 498-500, 12 April 1940, and map 221, developed by Y.H. and V.F. Larsen, Inc.
-  - Wilmot development, vol. 203, pp. 28-30, 30 April 1940, and map 130, developed by Thomas A. Laydon.
-### Manchester
-- Land Records, Town of Manchester, Connecticut
-  - Bowers Farm development, vol. 136, pp. 386-387, circa May 1940, and map SB2-19, developed by Sherwood G. Bowers.
-  - Greenway Park development, vol. 141, p. 93, 18 Nov 1940, and map SB2-36, developed by Lawrence A. Converse, President of Greenway, Inc.
-  - Lakewood Circle development, vol. 141, p. 270, 21 June 1941, and map SB2-18, developed by C. Elmore Watkins.
-### Newington
-- Land Records, Town of Newington, Connecticut
-  - Center Village development, vol. 41, pp. 226-27, 4 Oct 1939, and maps 64, 66, and 69, developed by Alfred E. Hanbury.
-  - Mountain View Heights development, vol. 41, pp. 293-94, 20 Dec 1939 and map 85; vol. 50, p. 55, 18 Sept 1942, developed by Arthur Olesen.
-### West Hartford
-- Land Records, Town of West Hartford, Connecticut
-  - Bel-Crest development, vol. 158, p. 7-8, 30 October 1940, and map 250, developed by Richard H. Bell, President of Bel-Crest, Inc.
-  - Dryad’s Grove development, vol. 164, pp. 342-3, 29 July 1941, and map 271, developed by Thomas Lawler, Inc.
-  - High Ledge Homes development, vol. 152, pp. 224-5, 10 June 1940, and map 218, developed by Edward F. Hammel, President of High Ledge Homes, Inc.
-  - Hillside Homes development, vol. 164, pp. 168-9, 26 May 1941, and map 270, developed by Arnold Holser, Vice President, Hillside Homes Corporation.
-  - Unnamed Asylum Avenue development, vol. 154, p. 116, 17 June 1940; vol. 150, p. 456, 20 May 1940, developed by the R.G. Bent, President of the R.G. Bent Company.
-### Incomplete and Not Yet Mapped
+### Incomplete Source and Not Yet Mapped
 - East Haddam, Connecticut, warranty deed recorded in land records of Dade County, Florida
   - Moodus Estates subdivision, lot 8, block 37, 21 December 1950, by Edward L. Parker of The Lake Realty Company (historical source submitted by Bob Rentenauer, 10 December 2019).
