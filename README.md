@@ -1,11 +1,11 @@
 # otl-covenants
-Leaflet map of restrictive covenants in property deeds in Connecticut, 1930s-40s
+Leaflet map of race restrictive covenants in property deeds in Connecticut, 1930s-40s
 
 ## Demo with caption
 https://ontheline.github.io/otl-covenants/index-caption.html
 
 ## Embedded in On The Line book http://ontheline.trincoll.edu
-set iframe height 500px
+set iframe height 450px
 
 ## Credits
 - Property deed research:
@@ -14,7 +14,7 @@ set iframe height 500px
   - in Newington CT by David K. Ware, December 2023
   - in Hamden CT by June Gold, January 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
-- If you know of other restrictive covenants, by race or religion, elsewhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
+- If you know of other restrictive covenants, by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
 ## How to add data
 - Scan documents, add metadata, and upload to `pdf` folder
@@ -27,6 +27,7 @@ In the land records (stored in `pdf` folder), note that racially restrictive cov
 | Town | Name | Type | Source | Restrictor | Date |
 |---|---|---|---|---|---|
 | Hamden | Gilridge | subdivision | vol. 205, pp. 40-42, and maps 224 and 54a | Joseph E. Maselli and Pasquale DeRosa | 1 Oct 1940 |
+| Hamden | Rosedale | subdivision | vol. 205, pp. 326-28, and maps 225a | Thomas Amatruda, President of the Fusco-Amatruda Company | 1 Nov 1940 |
 | Hamden | Village Farms | subdivision | vol. 202, pp. 498-500, and map 221 | Y.H. and V.F. Larsen, Inc. | 12 Apr 1940 |
 | Hamden | Wilmot | subdivision | vol. 203, pp. 28-30, and map 130 | Thomas A. Laydon | 30 Apr 1940 |
 | Manchester | Bowers Farm | subdivision | vol. 136, pp. 386-387, and map SB2-19 | Sherwood G. Bowers | circa May 1940 |
