@@ -1,5 +1,5 @@
 # otl-covenants
-Leaflet map of restrictive covenants in property deeds in Connecticut in 1940s
+Leaflet map of restrictive covenants in property deeds in Connecticut, 1930s-40s
 
 ## Demo with caption
 https://ontheline.github.io/otl-covenants/index-caption.html
