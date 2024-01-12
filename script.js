@@ -97,8 +97,12 @@ function populateSidebar(devs) {
   // add instructions to top of SIDEBAR
   $('.sidebar').append('<b>' + 'Click links or polygons<br>for racial restrictions' + '</b>');
 
-  // Sort developments by town, alphabetically
-  devs.sort(function(a, b) { return a[0].properties.town > b[0].properties.town ? 1 : -1 });
+  // Sort developments by town, and by development within town, alphabetically
+  // See https://stackoverflow.com/a/46256174/4361039
+  devs.sort(function(a, b) {
+    return a[0].properties.town.localeCompare(b[0].properties.town)
+      || a[0].properties.name.localeCompare(b[0].properties.name)
+  });
 
 
   townsAdded = []; // Keep track of town names we already added to the sidebar as a title
