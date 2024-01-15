@@ -26,6 +26,7 @@ In the land records (stored in `pdf` folder), note that racially restrictive cov
 
 | Town | Name | Type | Source | Restrictor | Date |
 |---|---|---|---|---|---|
+| Hamden | Beaver St | subdivision | vol. 199, pp. 589-90, and map 152a | Joseph E. Maselli and Pasquale DeRosa | 2 Jan 1940 |
 | Hamden | Gilridge | subdivision | vol. 205, pp. 40-42, and maps 224 and 54a | Joseph E. Maselli and Pasquale DeRosa | 1 Oct 1940 |
 | Hamden | Rosedale | subdivision | vol. 205, pp. 326-28, and maps 225a | Thomas Amatruda, President of the Fusco-Amatruda Company | 1 Nov 1940 |
 | Hamden | Village Farms | subdivision | vol. 202, pp. 498-500, and map 221 | Y.H. and V.F. Larsen, Inc. | 12 Apr 1940 |
