@@ -24,10 +24,13 @@ set iframe height 450px
 ## Historical sources
 In the land records (stored in `pdf` folder), note that racially restrictive covenants sometimes only applied to specific property lots in a real estate development. But our boundary maps (stored in `maps.geojson`) show the general outline of the entire development as described in land records of that period. Note that our maps show general outlines and are not surveyor-level detailed maps.
 
+See text of racial restrictions, which varies slightly across covenants, in the `maps.geojson` file, and can be viewed or converted to table format.
+
 | Town | Name | Type | Source | Restrictor | Date |
 |---|---|---|---|---|---|
 | Hamden | Beaver St | subdivision | vol. 199, pp. 589-90, and map 152a | Joseph E. Maselli and Pasquale DeRosa | 2 Jan 1940 |
 | Hamden | Circular Ave | subdivision | vol. 214, pp. 453-55, and map 289A | Veggo F. Larsen | 20 June 1942 |
+| Hamden | Colonial Village | subdivision | vol. 214, pp. 300-02, and map 286 | Albert G. Swanson and The Lomas & Nettleton Co. | 4 May 1942 |
 | Hamden | Gilbert Homes | subdivision | vol. 211, pp. 84-86, and map 282 | V.F. Larsen, President of Gilbert Homes | 16 Sept 1941 |
 | Hamden | Gilridge | subdivision | vol. 205, pp. 40-42, and maps 224 and 54a | Joseph E. Maselli and Pasquale DeRosa | 1 Oct 1940 |
 | Hamden | Rosedale | subdivision | vol. 205, pp. 326-28, and maps 225a | Thomas Amatruda, President of the Fusco-Amatruda Company | 1 Nov 1940 |
