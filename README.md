@@ -35,6 +35,7 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 | Hamden | Gilridge | subdivision | vol. 205, pp. 40-42, and maps 224 and 54a | Joseph E. Maselli and Pasquale DeRosa | 1 Oct 1940 |
 | Hamden | Rosedale | subdivision | vol. 205, pp. 326-28, and maps 225a | Thomas Amatruda, President of the Fusco-Amatruda Company | 1 Nov 1940 |
 | Hamden | Village Farms | subdivision | vol. 202, pp. 498-500, and map 221 | Y.H. and V.F. Larsen, Inc. | 12 Apr 1940 |
+| Hamden | Washington Manor | subdivision | vol. 211, pp. 424-26, and map 222a | Ferdinand VonBeren, President of Woodside Estates, Inc. | 16 Dec 1941 |
 | Hamden | Wilmot | subdivision | vol. 203, pp. 28-30, and map 130 | Thomas A. Laydon | 30 Apr 1940 |
 | Manchester | Bowers Farm | subdivision | vol. 136, pp. 386-387, and map SB2-19 | Sherwood G. Bowers | circa May 1940 |
 | Manchester | Greenway Park | subdivision | vol. 141, p. 93, and map SB2-36 | Lawrence A. Converse, President of Greenway, Inc. | 18 Nov 1940 |
