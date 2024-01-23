@@ -49,5 +49,5 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 | West Hartford | Unnamed Asylum Avenue | subdivision | vol. 154, p. 116; vol. 150, p. 456 | R.G. Bent, President of R.G. Bent Company | 17 Jun 1940 |
 
 ### Incomplete Source and Not Yet Mapped
-- East Haddam, Connecticut, warranty deed recorded in land records of Dade County, Florida
-  - Moodus Estates subdivision, lot 8, block 37, 21 December 1950, by Edward L. Parker of The Lake Realty Company (historical source submitted by Bob Rentenauer, 10 December 2019).
+- East Haddam, Connecticut
+  - Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
