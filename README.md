@@ -45,7 +45,7 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 | West Hartford | Bel-Crest | subdivision | vol. 158, p. 7-8, and map 250 | Richard H. Bell, president of Bel-Crest, Inc. | 30 Oct 1940 |
 | West Hartford | Dryad's Grove | subdivision | vol. 164, pp. 342-43, and map 271 | Thomas Lawler, Inc. | 29 Jul 1941 |
 | West Hartford | High Ledge Homes | subdivision | vol. 152, pp. 224-25, and map 218 | Edward F. Hammel, President of High Ledge Homes, Inc. | 10 Jun 1940 |
-| West Hartford | Hillside Homes | subdivision | vol. 164, pp. 168-69, and map 270 | Arnold Holder, Vice President, Hillside Homes Corporation | 26 May 1941 |
+| West Hartford | Trout Brook Ridge | subdivision | vol. 164, pp. 168-69, and map 270 | Arnold Holder, Vice President, Hillside Homes Corporation | 26 May 1941 |
 | West Hartford | Unnamed Asylum Avenue | subdivision | vol. 154, p. 116; vol. 150, p. 456 | R.G. Bent, President of R.G. Bent Company | 17 Jun 1940 |
 
 ### Incomplete Source and Not Yet Mapped
