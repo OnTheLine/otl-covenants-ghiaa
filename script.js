@@ -135,7 +135,7 @@ function populateSidebar(devs) {
 
   $('#toggle-sidebar').click(function() {
     var currentHeight = $('.sidebar').css('height');
-    $('.sidebar').css('height', currentHeight === '400px' ? '40px' : '400px');
+    $('.sidebar').css('height', currentHeight === '400px' ? '30px' : '400px');
   })
 
 }
