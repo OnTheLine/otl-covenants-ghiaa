@@ -14,7 +14,7 @@ set iframe height 450px
   - in Newington CT by David K. Ware, December 2023
   - in Hamden CT by June Gold, January 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
-- If you know of other restrictive covenants, by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
+- If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
 ## How to add data
 - Scan documents, add metadata, and upload to `pdf` folder
