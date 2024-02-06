@@ -49,17 +49,19 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 | West Hartford | Trout Brook Ridge | subdivision | vol. 164, pp. 168-69, and map 270 | Arnold Holder, Vice President, Hillside Homes Corporation | 26 May 1941 |
 | West Hartford | Unnamed Asylum Avenue | subdivision | vol. 154, p. 116; vol. 150, p. 456 | R.G. Bent, President of R.G. Bent Company | 17 Jun 1940 |
 
-### TO DO
-- East Haddam, Connecticut
-  - Not yet mapped: Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
-- Lake associations, investigate early ones below based on advertising in late 1920s+ with "restrictions" saved in subfolder
-  - 1928-Avon-SecretLake.png
-  - 1928-Glastonbury-DiamondLakeCo.png
-  - 1928-OldSaybrook-OysterPoint.png
-  - 1929-Andover-AndoverLake.png
-  - 1929-Coventry-PineLakeShores.png
-  - 1930-Colchester-Lake-Hayward.png
-  - 1930-EastHaddam-LakeHayward.png
-  - 1931-Hebron-LakeAmston.png
-  - 1931-Stafford-PineLakeShores.png
-  - 1937-Glastonbury-Diamond-Lake.png
+### TODO East Haddam, Connecticut
+- Not yet mapped: Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
+
+### TODO Lake Associations
+- Investigate early ones below based late 1920s advertising with "restrictions" saved in subfolder
+- Old Saybrook - Oyster Point - 10 June 1925 ad & 1 July 1928 ad (same page as Secret Lake below) both mention "reasonable restrictions"; property records online index: Property of Jim Brady, 1924; map file #84 lots 1-71, 1 June 1925; Oyster Point addition #1 map file #86 lots 1-56, 1 July 1925; plus four more maps with 1929-30 dates: file numbers 187D, 187E, 272E, 214; but map images from this period not online
+- Canton - Secret Lake - 1 July 1928 ad mentions "wisely restricted"; property records online: Canton map #81 Secret Lake, land owned by JEB Lowell, 18 July 1928, see PDF downloaded; but no online index of sales from this period
+- Glastonbury - Diamond Lake Co. - 29 July 1928 ad mentions "wise restrictions"; property records online: see 2-page PDF downloaded of index entries from Glastonbury land records; but no online images from this period
+- Andover - Andover Lake --  8 July 1928 ad mentions "restricted lake" and 28 April 1929 ad features "Reasonable Restrictions Will Maintain the Desirability of this Development," with two writers who state that property had explicit prohibitions against Blacks and Jews; No land records online
+- other ads from later dates, so less likely to be earliest:
+- 1929-Coventry-PineLakeShores.png
+- 1930-Colchester-Lake-Hayward.png
+- 1930-EastHaddam-LakeHayward.png
+- 1931-Hebron-LakeAmston.png
+- 1931-Stafford-PineLakeShores.png
+- 1937-Glastonbury-Diamond-Lake.png
