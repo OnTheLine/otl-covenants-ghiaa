@@ -52,18 +52,14 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 ### TO DO
 - East Haddam, Connecticut
   - Not yet mapped: Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
-- Lake associations
-  - begin advertising in 1920s+ with "restrictions"
-  - David Rhinelander, “Andover Lake: Investors’ Creation,” Hartford Courant, February 26, 1999, https://web.archive.org/web/20210717030820/https://www.courant.com/news/connecticut/hc-xpm-1999-02-26-9902260384-story.html;
-  - Walter Woodward, “July 29: A Determined Minister’s Swim for Justice,” Today in Connecticut History, July 29, 2021, https://web.archive.org/web/20210729112410/https://todayincthistory.com/2021/07/29/july-29-a-determined-ministers-swim-for-justice/.
-- Leads to investigate, based on ads from Newspapers.com saved in subfolder
-1928-Avon-SecretLake.png
-1928-Glastonbury-DiamondLakeCo.png
-1928-OldSaybrook-OysterPoint.png
-1929-Andover-AndoverLake.png
-1929-Coventry-PineLakeShores.png
-1930-Colchester-Lake-Hayward.png
-1930-EastHaddam-LakeHayward.png
-1931-Hebron-LakeAmston.png
-1931-Stafford-PineLakeShores.png
-1937-Glastonbury-Diamond-Lake.png
+- Lake associations, investigate early ones below based on advertising in late 1920s+ with "restrictions" saved in subfolder
+  - 1928-Avon-SecretLake.png
+  - 1928-Glastonbury-DiamondLakeCo.png
+  - 1928-OldSaybrook-OysterPoint.png
+  - 1929-Andover-AndoverLake.png
+  - 1929-Coventry-PineLakeShores.png
+  - 1930-Colchester-Lake-Hayward.png
+  - 1930-EastHaddam-LakeHayward.png
+  - 1931-Hebron-LakeAmston.png
+  - 1931-Stafford-PineLakeShores.png
+  - 1937-Glastonbury-Diamond-Lake.png
