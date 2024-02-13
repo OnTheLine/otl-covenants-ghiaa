@@ -7,19 +7,24 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ## Embedded in On The Line book http://ontheline.trincoll.edu
 set iframe height 450px
 
+## Tables
+- table-calculations.xlsx -- to sum totals by town and estimate percentage of homes built with covenants
+- table-ct-land-records-online.csv -- a copy of working Google Sheet https://docs.google.com/spreadsheets/d/1t6UFa-y7HmiulmLxydlfXevpquFRF5JZD7OsBxdq0R4/edit#gid=0
+
 ## Credits
 - Property deed research:
-  - in West Hartford CT by Katie Campbell, Trinity College, Summer 2011
+  - in West Hartford CT by Katie Campbell, Trinity College, Summer 2010
   - in Manchester CT by David K. Ware, “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut.” Paper submitted for University of Connecticut School of Law, January 2020, https://ssrn.com/abstract=3546228.
   - in Newington CT by David K. Ware, December 2023
-  - in Hamden CT by June Gold, January 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
+  - in Hamden CT by June Gold, 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
-## How to add data
+## Steps to add data
 - Scan documents, add metadata, and upload to `pdf` folder
-- Upload `maps.geojson` file to free browser tool, such as <https://geojson.io>, to add polygon and metadata, then export to upload into this repository
-- Also manually add metadata to table below, originally created by converting GeoJSON to CSV with <https://www.convertcsv.com/geojson-to-csv.htm> then to Markdown format with <https://www.tablesgenerator.com/>
+- Upload `maps.geojson` file to free browser tool, such as <https://geojson.io>, to add polygon and metadata, then export in `.geojson` format and upload into this repository
+- Manually add metadata to table below, originally created by converting GeoJSON to CSV with <https://www.convertcsv.com/geojson-to-csv.htm> then to Markdown format with <https://www.tablesgenerator.com/>
+- Update `table-calculations.xlsx` then update summary to table in OTL book
 
 ## Historical sources
 In the land records (stored in `pdf` folder), note that racially restrictive covenants sometimes only applied to specific property lots in a real estate development. But our boundary maps (stored in `maps.geojson`) show the general outline of the entire development as described in land records of that period. Note that our maps show general outlines and are not surveyor-level detailed maps.
@@ -33,6 +38,7 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 | Hamden | Colonial Village | subdivision | vol. 214, pp. 300-02, and map 286 | Albert G. Swanson and The Lomas & Nettleton Co. | 4 May 1942 |
 | Hamden | Gilbert Homes | subdivision | vol. 211, pp. 84-86, and map 282 | V.F. Larsen, President of Gilbert Homes | 16 Sept 1941 |
 | Hamden | Gilridge | subdivision | vol. 205, pp. 40-42, and maps 224 and 54a | Joseph E. Maselli and Pasquale DeRosa | 1 Oct 1940 |
+| Hamden | Northside | subdivision | vol. 232, pp. 224-25, and maps 23 and 57a | Thomas A. Laydon | 11 Dec 1945 |
 | Hamden | Rosedale | subdivision | vol. 205, pp. 326-28, and maps 225a | Thomas Amatruda, President of the Fusco-Amatruda Company | 1 Nov 1940 |
 | Hamden | Village Farms | subdivision | vol. 202, pp. 498-500, and map 221 | Y.H. and V.F. Larsen, Inc. | 12 Apr 1940 |
 | Hamden | Washington Manor | subdivision | vol. 211, pp. 424-26, and map 222a | Ferdinand VonBeren, President of Woodside Estates, Inc. | 16 Dec 1941 |
@@ -58,10 +64,9 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 - Canton - Secret Lake - 1 July 1928 ad mentions "wisely restricted"; property records online: Canton map #81 Secret Lake, land owned by JEB Lowell, 18 July 1928, see PDF downloaded; but no online index of sales from this period
 - Glastonbury - Diamond Lake Co. - 29 July 1928 ad mentions "wise restrictions"; property records online: see 2-page PDF downloaded of index entries from Glastonbury land records; but no online images from this period
 - Andover - Andover Lake --  8 July 1928 ad mentions "restricted lake" and 28 April 1929 ad features "Reasonable Restrictions Will Maintain the Desirability of this Development," with two writers who state that property had explicit prohibitions against Blacks and Jews; No land records online
-- other ads from later dates, so less likely to be earliest:
-- 1929-Coventry-PineLakeShores.png
-- 1930-Colchester-Lake-Hayward.png
-- 1930-EastHaddam-LakeHayward.png
+- Coventry - Pine Lake Shores -- 2 Aug 1929 ad mentions "sensible restrictions"; see Coventry land record map images online https://www.searchiqs.com/CTCOV/SearchResultsMP.aspx
+- Colchester - Lake Hayward - 8 Aug 1930 ad mentions "sensible restrictions"
+- East Haddam - Lake Hayward - 12 Sept 1930 ad mentions "Suitable Membership and Building Restrictions"
 - 1931-Hebron-LakeAmston.png
 - 1931-Stafford-PineLakeShores.png
 - 1937-Glastonbury-Diamond-Lake.png
