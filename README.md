@@ -58,6 +58,9 @@ See text of racial restrictions, which varies slightly across covenants, in the 
 ### TODO East Haddam, Connecticut
 - Not yet mapped: Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
 
+### Leads to follow up on
+see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
+
 ### TODO Lake Associations
 - Investigate early ones below based late 1920s advertising with "restrictions" saved in subfolder
 - Old Saybrook - Oyster Point - 10 June 1925 ad & 1 July 1928 ad (same page as Secret Lake below) both mention "reasonable restrictions"; property records online index: Property of Jim Brady, 1924; map file #84 lots 1-71, 1 June 1925; Oyster Point addition #1 map file #86 lots 1-56, 1 July 1925; plus four more maps with 1929-30 dates: file numbers 187D, 187E, 272E, 214; but map images from this period not online
