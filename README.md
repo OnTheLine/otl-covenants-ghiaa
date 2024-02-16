@@ -7,16 +7,18 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ## Embedded in On The Line book http://ontheline.trincoll.edu
 set iframe height 450px
 
+## Secondary live site
+https://myCTdeed.com
+
 ## Tables
-- table-calculations.xlsx -- to sum totals by town and estimate percentage of homes built with covenants
-- table-ct-land-records-online.csv -- a copy of working Google Sheet https://docs.google.com/spreadsheets/d/1t6UFa-y7HmiulmLxydlfXevpquFRF5JZD7OsBxdq0R4/edit#gid=0
+- table-calculations -- see working copy in Google Sheet https://docs.google.com/spreadsheets/d/1yLGLmTzrkiaVJENkbWISFTSfH-Gm569UD-O206kPSFo/edit#gid=322703715 with backup XLSX in this GitHub repo
+- table-ct-land-records-online -- see working copy in Google Sheet https://docs.google.com/spreadsheets/d/1t6UFa-y7HmiulmLxydlfXevpquFRF5JZD7OsBxdq0R4/edit#gid=0 and backup CSV in this GitHub repo
 
 ## Credits
-- Property deed research:
-  - in West Hartford CT by Katie Campbell, Trinity College, Summer 2010
-  - in Manchester CT by David K. Ware, “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut.” Paper submitted for University of Connecticut School of Law, January 2020, https://ssrn.com/abstract=3546228.
-  - in Newington CT by David K. Ware, December 2023
-  - in Hamden CT by June Gold, 2024. See news article by Austin Mirmina, “When Hamden Woman Found Racist Covenant in Her Property Deed, Rooting Them Out Became a Mission,” CT Insider, November 25, 2023, https://web.archive.org/web/20231125103733/https://www.ctinsider.com/news/article/hamden-racist-property-deeds-spring-glen-18481356.php.
+- Property deed research in Connecticut towns:
+  - Katie Cambell: West Hartford, Summer 2010
+  - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024
+  - June Gold: Hamden, 2023-24
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
@@ -24,7 +26,8 @@ set iframe height 450px
 - Scan documents, add metadata, and upload to `pdf` folder
 - Upload `maps.geojson` file to free browser tool, such as <https://geojson.io>, to add polygon and metadata, then export in `.geojson` format and upload into this repository
 - Manually add metadata to table below, originally created by converting GeoJSON to CSV with <https://www.convertcsv.com/geojson-to-csv.htm> then to Markdown format with <https://www.tablesgenerator.com/>
-- Update `table-calculations.xlsx` then update summary to table OTL book 2.4 **and** myCTdeed.com 
+- Update table-calculations in Google Sheet https://docs.google.com/spreadsheets/d/1yLGLmTzrkiaVJENkbWISFTSfH-Gm569UD-O206kPSFo/edit#gid=322703715, and republish linked Datawrapper table https://app.datawrapper.de/archive/team/Fj3ATkF7/63725#/b1O7K
+- Both the map and the table appear in two live sites: https://OnTheLine.trincoll.edu and https://myCTdeed.com  
 
 ## Historical sources
 In the land records (stored in `pdf` folder), note that racially restrictive covenants sometimes only applied to specific property lots in a real estate development. But our boundary maps (stored in `maps.geojson`) show the general outline of the entire development as described in land records of that period. Note that our maps show general outlines and are not surveyor-level detailed maps.
