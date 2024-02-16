@@ -24,7 +24,7 @@ set iframe height 450px
 - Scan documents, add metadata, and upload to `pdf` folder
 - Upload `maps.geojson` file to free browser tool, such as <https://geojson.io>, to add polygon and metadata, then export in `.geojson` format and upload into this repository
 - Manually add metadata to table below, originally created by converting GeoJSON to CSV with <https://www.convertcsv.com/geojson-to-csv.htm> then to Markdown format with <https://www.tablesgenerator.com/>
-- Update `table-calculations.xlsx` then update summary to table in OTL book
+- Update `table-calculations.xlsx` then update summary to table OTL book 2.4 **and** myCTdeed.com 
 
 ## Historical sources
 In the land records (stored in `pdf` folder), note that racially restrictive covenants sometimes only applied to specific property lots in a real estate development. But our boundary maps (stored in `maps.geojson`) show the general outline of the entire development as described in land records of that period. Note that our maps show general outlines and are not surveyor-level detailed maps.
