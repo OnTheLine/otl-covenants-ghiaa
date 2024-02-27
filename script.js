@@ -79,8 +79,8 @@ $.getJSON("map.geojson", function (data) {
     style: style,
     onEachFeature: function( feature, layer) {
       var popupText = "<b>" + feature.properties.name + " " + feature.properties.type + ", " + feature.properties.town + " CT" + "</b><br />"
-         + "&quot;" + feature.properties.text + "&quot; -- " + feature.properties.date + "<br />"
-         + "<a href='https://ontheline.github.io/otl-covenants/pdf/" + feature.properties.id + ".pdf' target='_blank'>View property deed (PDF opens new tab)</a>";
+         + "&quot;" + feature.properties.text + "&quot; -- Source: " + feature.properties.source + "; " + feature.properties.date + "<br />"
+         + "<a href='https://ontheline.github.io/otl-covenants/pdf/" + feature.properties.id + ".pdf' target='_blank'>View land record (PDF opens new tab)</a>";
       layer.bindPopup(popupText, {offset: {x: 50, y: 0}});
 
       devs.push([feature, layer]);
