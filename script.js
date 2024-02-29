@@ -14,7 +14,16 @@ map.getPane('towns').style.pointerEvents = 'none';
 new L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
 }).addTo(map);
-L.Control.geocoder().addTo(map);
+
+const search = new GeoSearch.GeoSearchControl({
+  provider: new GeoSearch.OpenStreetMapProvider(),
+  style: 'bar', // default: button
+  searchLabel: 'Search address',
+  position: 'topright',
+});
+map.addControl(search);
+
+// L.Control.geocoder().addTo(map);
 
 // Reposition zoom control other than default topleft
 L.control.zoom({position: "topright"}).addTo(map);
