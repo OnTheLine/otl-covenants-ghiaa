@@ -16,7 +16,14 @@ new L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
 }).addTo(map);
 
 const search = new GeoSearch.GeoSearchControl({
-  provider: new GeoSearch.OpenStreetMapProvider(),
+  provider: new GeoSearch.OpenStreetMapProvider({
+    params: { // See https://nominatim.org/release-docs/develop/api/Search/#parameters for all options
+      'accept-language': 'en',
+      'countrycodes': 'us',
+      'viewbox': '-73.8,40.5,-71.7,42.1', // roughly CT boundaries
+      'bounded': 1
+    }
+  }),
   style: 'bar', // default: button
   searchLabel: 'Search address',
   position: 'topright',
