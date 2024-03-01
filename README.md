@@ -15,9 +15,9 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 
 ## Credits
 - Property deed research in Connecticut towns:
-  - Katie Cambell: West Hartford, Summer 2010
+  - Katie Campbell: West Hartford, Summer 2010
   - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024
-  - June Gold: Hamden, 2023-24
+  - June Gold: Hamden, 2023-24; Woodbridge 2024
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
 
@@ -40,6 +40,3 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 
 ### Leads to follow up on
 see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
-
-### TODO East Haddam, Connecticut
-- Not yet mapped: Moodus Estates subdivision, lot 8, block 37, warranty deed by Edward L. Parker of The Lake Realty Company, filed 5 Nov 1949 in Dade County Florida (after the 1948 Shelley decision), recorded 21 December 1950 (more than one year later) in East Haddam land records, book 66, page 103, document 77018571, no online image currently available, also need map image. Historical source submitted by Bob Rentenauer, 10 December 2019.
