@@ -1,8 +1,11 @@
-# otl-covenants
-Leaflet map of race restrictive covenants in property deeds in Connecticut, 1930s-50s
+# otl-covenants-ghiaa
+Customized for GHIAA: Leaflet map of race restrictive covenants in property deeds in Connecticut, 1930s-50s
+
+## see also main branch
+https://github.com/ontheline/otl-covenants
 
 ## Demo with caption
-https://ontheline.github.io/otl-covenants/index-caption.html
+https://ontheline.github.io/otl-covenants-ghiaa/index-caption.html
 
 ## Embedded in two sites
 - https://ontheline.trincoll.edu
