@@ -1,6 +1,6 @@
 // Edit the center point and zoom level
 var map = L.map('map', {
-  center: [41.76, -72.705],
+  center: [41.76, -72.69],
   zoom: 11,
   zoomControl: false, // add later to reposition
   scrollWheelZoom: false
@@ -167,10 +167,45 @@ function style(feature) {
   };
 }
 
-// places a star on state capital of Hartford, CT
-var starIcon = L.icon({
-  iconUrl: 'src/star-18.png',
-  iconRetinaUrl: 'src/star-18@2x.png',
-  iconSize: [18, 18]
-});
-L.marker([41.7646, -72.6823], {icon: starIcon}).addTo(map);
+// manually place selected GHIAA members
+L.marker([41.7843541745589,-72.5041961699055]).addTo(map) // EDIT marker coordinates
+.bindPopup("Beth Sholom B’nai Israel, Manchester"); // EDIT pop-up text message
+
+L.marker([41.7792260894468,-72.5034937472151]).addTo(map) // EDIT marker coordinates
+.bindPopup("Concordia Lutheran Church, Manchester"); // EDIT pop-up text message
+
+L.marker([41.8101182986531,-72.4902992472129]).addTo(map) // EDIT marker coordinates
+.bindPopup("Unitarian Universalist Society: East, Manchester"); // EDIT pop-up text message
+
+L.marker([41.697923308062,-72.7238839962957]).addTo(map) // EDIT marker coordinates
+.bindPopup("Church of Christ (Congregational), Newington"); // EDIT pop-up text message
+
+L.marker([41.7192694510979,-72.7447478760549]).addTo(map) // EDIT marker coordinates
+.bindPopup("Temple Sinai, Newington"); // EDIT pop-up text message
+
+L.marker([41.7877159615536, -72.75721147605022]).addTo(map) // EDIT marker coordinates
+.bindPopup("Beth El Temple, West Hartford"); // EDIT pop-up text message
+
+L.marker([41.7652548347616, -72.71913024721607]).addTo(map) // EDIT marker coordinates
+.bindPopup("Congregation Beth Israel, West Hartford"); // EDIT pop-up text message
+
+L.marker([41.784, -72.761]).addTo(map) // EDIT marker coordinates
+.bindPopup("Congregation P’nai Or, West Hartford"); // EDIT pop-up text message
+
+L.marker([41.7850, -72.760]).addTo(map) // EDIT marker coordinates
+.bindPopup("Flagg Road (UCC), West Hartford"); // EDIT pop-up text message
+
+L.marker([41.76168643475847, -72.74154799139485]).addTo(map) // EDIT marker coordinates
+.bindPopup("First Church of Christ (UCC), West Hartford"); // EDIT pop-up text message
+
+L.marker([41.76044657606062, -72.7288459757624]).addTo(map) // EDIT marker coordinates
+.bindPopup("Hartford Monthly Meeting (Quakers), West Hartford"); // EDIT pop-up text message
+
+L.marker([41.769155071529646, -72.74043484536577]).addTo(map) // EDIT marker coordinates
+.bindPopup("Universalist Church of West Hartford, West Hartford"); // EDIT pop-up text message
+
+L.marker([41.732473471300274, -72.75297259420499]).addTo(map) // EDIT marker coordinates
+.bindPopup("West Hartford United Methodist Church, West Hartford"); // EDIT pop-up text message
+
+L.marker([41.754279262714476, -72.76300356255969]).addTo(map) // EDIT marker coordinates
+.bindPopup("Westminster Presbyterian Church, West Hartford"); // EDIT pop-up text message
